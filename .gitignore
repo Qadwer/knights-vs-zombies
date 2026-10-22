@@ -1,0 +1,23 @@
+# Байткод Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+.pytest_cache/
+
+# Сборка и дистрибутивы PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Локальные данные сохранений игрока
+save_data.json
+
+# Виртуальные окружения
+venv/
+.venv/
+env/
+
+# IDE и редакторы
+.vscode/
+.idea/

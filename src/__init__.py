@@ -1,0 +1,4 @@
+"""
+Knight vs Zombies package.
+"""
+

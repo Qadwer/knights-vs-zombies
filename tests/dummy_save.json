@@ -1,0 +1,34 @@
+{
+  "career": {
+    "high_score": 0,
+    "max_wave": 0,
+    "total_kills": 0,
+    "total_games": 0,
+    "souls": 1499985
+  },
+  "permanent_upgrades": {
+    "hp_boost": 0,
+    "damage_boost": 0,
+    "speed_boost": 0,
+    "magnet_boost": 0,
+    "warrior_speed": 0,
+    "warrior_hp": 0,
+    "warrior_damage": 0,
+    "ranger_speed": 0,
+    "ranger_hp": 0,
+    "ranger_damage": 0,
+    "mage_speed": 0,
+    "mage_hp": 0,
+    "mage_damage": 0,
+    "summoner_speed": 0,
+    "summoner_hp": 0,
+    "summoner_damage": 0
+  },
+  "settings": {
+    "sfx_muted": false,
+    "sfx_volume": 1.0,
+    "screen_shake": true,
+    "fullscreen": false
+  },
+  "active_run": null
+}
